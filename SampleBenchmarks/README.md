@@ -10,3 +10,6 @@ See https://www.youtube.com/watch?v=EWmufbVF2A4
  - Bubble Sort: https://en.wikipedia.org/wiki/Bubble_sort
  - Insertion Sort: https://en.wikipedia.org/wiki/Insertion_sort
  - Quick Sort: https://www.w3resource.com/csharp-exercises/searching-and-sorting-algorithm/searching-and-sorting-algorithm-exercise-9.php
+
+## For vs ForEach Loops
+(spoiler alert, it doesn't really matter)
